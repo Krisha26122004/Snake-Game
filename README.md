@@ -2,6 +2,8 @@ Snake Game with Data Structures
 This project is a simple implementation of the classic Snake game using Python and the Pygame 
 library. The game incorporates fundamental data structures such as a deque for managing the snake's 
 body and ensures smooth gameplay with intuitive controls and scoring. 
+
+
 Features 
 • Classic Gameplay: Navigate the snake to collect food and grow while avoiding collisions. 
 • Smooth Movement: The snake's movement is controlled using the arrow keys. 
